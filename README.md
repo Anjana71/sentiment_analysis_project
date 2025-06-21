@@ -33,6 +33,11 @@ The emotions include: `sadness`, `joy`, `anger`, `fear`, `surprise`, `love`, and
 - **Interface:** Gradio UI + CLI terminal predictions
 
 ---
+## 🖼️ Demo Screenshot
+
+Here's an example of the Gradio web interface:
+
+![Gradio Output](gradio_demo.png)
 
 ## 🛠️ How to Run
 
@@ -95,6 +100,7 @@ emotion-detector/
 🌐 Gradio interface for real-time predictions
 
 📈 Model evaluation and performance metrics
+
 
 📚 Requirements
 
